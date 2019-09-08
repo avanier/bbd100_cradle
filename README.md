@@ -1,6 +1,8 @@
 # BBD100 Dock
 
-A USB-C charging dock for the BlackBerry Motion.
+A dock / cradle for the BlackBerry Motion.
+
+Meant to have a wire plugged in the hole.
 
 ## Contributing
 
